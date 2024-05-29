@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<Bubbles.Toggle>Afficher les bulles</Bubbles.Toggle>
+<Bubbles.ResetToDefault>Réinitialiser par défaut</Bubbles.ResetToDefault>
+<Bubbles.NonWindow>Maintenez la touche Maj enfoncée et cliquez sur l'icône de basculement des bulles pour accéder à ces paramètres dans le jeu.</Bubbles.NonWindow>
+<Bubbles.DoNonPlayer>Afficher pour les autres factions</Bubbles.DoNonPlayer>
+<Bubbles.DoAnimals>Afficher les interactions avec les animaux</Bubbles.DoAnimals>
+<Bubbles.DoDrafted>Afficher lorsque drafté</Bubbles.DoDrafted>
+<Bubbles.DoTextColors>Afficher les couleurs du texte</Bubbles.DoTextColors>
+<Bubbles.AutoHideSpeed>Masquer automatiquement à la vitesse</Bubbles.AutoHideSpeed>
+<Bubbles.AutoHideSpeedOff>Arrêté</Bubbles.AutoHideSpeedOff>
+<Bubbles.AltitudeBase>Altitude de base</Bubbles.AltitudeBase>
+<Bubbles.AltitudeMax>Altitude maximale visible</Bubbles.AltitudeMax>
+<Bubbles.ScaleMax>Échelle maximale</Bubbles.ScaleMax>
+<Bubbles.PawnMax>Maximum par pion</Bubbles.PawnMax>
+<Bubbles.OffsetSpacing>Espacement</Bubbles.OffsetSpacing>
+<Bubbles.OffsetStart>Décalage par rapport à l'étiquette</Bubbles.OffsetStart>
+<Bubbles.OffsetDirection>Direction du décalage</Bubbles.OffsetDirection>
+<Bubbles.OffsetDirections>Bas|Gauche|Haut|Droite</Bubbles.OffsetDirections>
+<Bubbles.OpacityStart>Opacité de départ</Bubbles.OpacityStart>
+<Bubbles.OpacityHover>Opacité au survol</Bubbles.OpacityHover>
+<Bubbles.FadeStart>Ticks avant le début de la disparition</Bubbles.FadeStart>
+<Bubbles.FadeLength>Ticks pour disparaître</Bubbles.FadeLength>
+<Bubbles.FontSize>Taille de la police</Bubbles.FontSize>
+<Bubbles.PaddingX>Rembourrage du texte X</Bubbles.PaddingX>
+<Bubbles.PaddingY>Rembourrage du texte Y</Bubbles.PaddingY>
+<Bubbles.WidthMax>Largeur maximale</Bubbles.WidthMax>
+<Bubbles.Background>Couleur de fond</Bubbles.Background>
+<Bubbles.Foreground>Couleur de premier plan</Bubbles.Foreground>
+<Bubbles.BackgroundSelected>Couleur de fond (lorsque sélectionné)</Bubbles.BackgroundSelected>
+<Bubbles.ForegroundSelected>Couleur de premier plan (lorsque sélectionné)</Bubbles.ForegroundSelected>
+
+</LanguageData>
